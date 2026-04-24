@@ -30,9 +30,3 @@ The model achieves over **80% sparsity** with only a minimal drop in accuracy on
 - This demonstrates a clear trade-off between model compactness and performance.
 
 ---
-
-## How to Run
-
-```bash
-pip install -r requirements.txt
-python train.py
